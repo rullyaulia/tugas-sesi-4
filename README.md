@@ -22,4 +22,12 @@ Aplikasi toko buku sederhana berbasis Flutter dengan State Management Provider.
 
 ## Screenshot Aplikasi
 
-![Tampilan NusaBookstore][Badge Keranjang](badge.png.png)
+![Katalog](katalog.png.png)
+
+![Badge](badge.png.png)
+
+![Keranjang](keranjang.png.png)
+
+![Total](total.png.png)
+
+![Checkout](checkout.png.png)
