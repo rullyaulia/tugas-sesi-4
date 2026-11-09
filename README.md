@@ -1,17 +1,25 @@
-# tugas_sesi_4
+# NusaBookstore - Sesi 04
 
-A new Flutter project.
+**Nama:** Rully Aulia  
+**Program Studi:** Informatika  
+**Universitas:** Universitas Nusa Putra
 
-## Getting Started
+## Deskripsi
+Aplikasi toko buku sederhana berbasis Flutter dengan State Management Provider.
 
-This project is a starting point for a Flutter application.
+## Fitur Aplikasi
+1. Katalog buku
+2. Tambah buku ke keranjang
+3. Badge jumlah item
+4. Perhitungan total pembayaran
+5. Light Mode dan Dark Mode
+6. Checkout dengan notifikasi SnackBar
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi
+- Flutter
+- Dart
+- Provider
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Screenshot Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tampilan NusaBookstore](screenshots/katalog.png)
